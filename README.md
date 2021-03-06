@@ -1,11 +1,6 @@
 
 ## Exploratory Data Analysis of London Underground Exit Data
 
-### Table of Contents
-* What is EDA?
-* My Project
-* Libaries Used
-
 ### What is Exploratory Data Analysis?
 Exploratory Data Analysis (EDA) is a step in the Data Analysis Process, 
 where a number of techniques are used to better understand a given dataset.
@@ -16,6 +11,11 @@ This involves but is not limited to:
 * Identifying and extracting important variables
 * Understanding the relationship(s) between variables
 * Providing valuable insights relating to the data
+
+### Table of Contents
+* Summary of my Project
+* Required libraries
+* Data
 
 ### My Project
 In this notebook the data I used relates to London Undergound 
@@ -32,7 +32,7 @@ and to evaluate any patterns and / or a relationship between Morning and Evening
 |  Evening        | H19, H20, H21 | 
 |  Late           | H22, H23, H00, H01 | 
 
-### Libraries
+### Required Libraries
 In this notebook I have conducted my analysis using a few
 popular **Python** libraries:
 * Pandas
@@ -40,4 +40,6 @@ popular **Python** libraries:
 * Matplotlib
 * Statsmodels
 
-
+### Data
+The dataset used can be found [here]() for those that are interested you 
+can conduct similar analysis using the London Undeground Entry data [here]()
