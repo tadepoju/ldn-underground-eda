@@ -21,16 +21,16 @@ This involves but is not limited to:
 
 ### My Project
 -----------------
-In this [notebook](https://github.com/tadepoju/python-ldn-underground-eda/blob/readme-edits/London%20Underground%20Exploratory%20Data%20Analysis.ipynb) the data I used relates to London Undergound exit data (exit.csv) to summarise the key characteristics of the dataset 
+In this [notebook](https://github.com/tadepoju/python-ldn-underground-eda/blob/readme-edits/London%20Underground%20Exploratory%20Data%20Analysis.ipynb) the data I used relates to London Undergound exit data to summarise the key characteristics of the dataset 
 and to evaluate any patterns and / or a relationship between Morning and Evening travel peak periods.
 
 
 | Period          | Hours Included | 
 |:--------------- |:---------------- | 
 |  Early          | H05, H06  | 
-|  **AMPeak**     | **H07, H08, H09** | 
+| ***AMPeak***     | ***H07, H08, H09*** | 
 |  Interpeak      | H10, H11, H12, H13, H14, H15 | 
-|  **PMPeak**     | **H16, H17, H18** | 
+|  ***PMPeak***     | ***H16, H17, H18*** | 
 |  Evening        | H19, H20, H21 | 
 |  Late           | H22, H23, H00, H01 | 
 
